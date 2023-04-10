@@ -204,7 +204,7 @@ INSERT INTO tb_diary (year, date, description) VALUES (2016, '19/03', 'Festa de 
 INSERT INTO tb_diary (year, date, description) VALUES (2016, '22/03', 'Lorenzo um período inteiro na sala do segundo ano na aula do Edmundo');
 INSERT INTO tb_diary (year, date, description) VALUES (2016, '23/03', 'Miriam: Maicon, teu celular é verde cara...');
 INSERT INTO tb_diary (year, date, description) VALUES (2016, '28/03', 'Maicon: Roubei o colete da escola. -Gio: Ladrão');
-INSERT INTO tb_diary (year, date, description) VALUES (2016, '28/03', 'Faltas: o superman morre');
+INSERT INTO tb_diary (year, date, description) VALUES (2016, '28/03', 'Faltas: o superman morre :(');
 INSERT INTO tb_diary (year, date, description) VALUES (2016, '11/04', 'Rodo na janela');
 INSERT INTO tb_diary (year, date, description) VALUES (2016, '11/04', 'Maicon fazendo magia negra e mauri acordando com um espasmo');
 INSERT INTO tb_diary (year, date, description) VALUES (2016, '13/04', 'os mlk é liso no projetor da sala antes da aula');
